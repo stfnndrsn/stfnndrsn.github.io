@@ -82,10 +82,10 @@ I would gladly recommend theese vendors for great support and coorperation with 
 
 | Vendor          | Solution                          | Reason |
 | --------------- | --------------------------------- | ------ |
-| Delfi           | Labelprints & Packstation tablets | Delfi provided us with expert knowledge and best practice for ADC equipment | 
-| Jungheinrich    | Pallet racking                    | |
-| Jungheinrich    | Reach Trucks                      | One of the best reach trucks designed for modern battery technology |
+| [Delfi](https://www.delfi.com/) | [Labelprints](https://www.zebra.com/us/en/products/printers/desktop/zd420-series-desktop-printers.html) & [Packstation tablets](https://www.elotouch.com/touchscreen-computers-aaio2-22.html) | Delfi provided us with expert knowledge and best practice for ADC equipment | 
+| [Jungheinrich](https://www.jungheinrich.de/) | Pallet racking                    | |
+| Jungheinrich    | [Reach Trucks](https://www.jungheinrich.dk/produkter/nye-trucks/skydemasttruck/etv-216i-391198) | One only reach trucks designed for modern battery technology |
 | Lexmark         | Printing                          | We print 2 million delivery slips  - so we needed stability and field serviceable printing solution |
-| WiFi Kompagniet | Network Infrastructure            | Pragmatic solution and 24/7 support |
+| [WiFi Kompagniet](https://wifik.dk/) | Network Infrastructure            | Pragmatic solution and 24/7 support |
 | WFI             | Worktables                        | Market leader in the europe for profesional work tables in warehousing |
 
